@@ -1,0 +1,20 @@
+.plataforma {
+    margin: 1.5em;
+}
+
+.linkManagerPlayers {
+    text-align: left;
+}
+
+.divLinks {
+    margin-bottom: 1.5em;
+}
+
+.contenedor,.componente {
+    border: 1px solid black;
+    padding: 1.0em;
+}
+
+.componente {
+    margin-top: 1.0em;
+}

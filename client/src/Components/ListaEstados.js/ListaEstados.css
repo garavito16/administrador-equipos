@@ -1,0 +1,18 @@
+
+
+.btnStatus {
+    background-color: white;
+    padding: 0.5em 1.0em;
+}
+
+.undecidedSelect {
+    background-color: orange;
+}
+
+.playingSelect {
+    background-color: green;
+}
+
+.notplayingSelect {
+    background-color: red;
+}

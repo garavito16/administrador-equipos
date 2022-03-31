@@ -1,0 +1,12 @@
+.tabla,th,td {
+    border: 1px solid black;
+}
+
+th,td {
+    padding: 0.2em 1.0em;
+}
+
+.btnEliminar {
+    background-color: red;
+    padding: 0.2em 1.5em;
+}
